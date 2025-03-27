@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <a href="https://github.com/devxb/gitanimals">
     <img
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
     />
   </a>
 </div>
+-->
